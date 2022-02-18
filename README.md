@@ -1,1 +1,2 @@
-# PROC-30-V2
+# aplasta-al-zombi-2
+solución del proyecto para c30
